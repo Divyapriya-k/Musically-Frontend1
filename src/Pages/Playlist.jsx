@@ -173,7 +173,7 @@ const Playlist = () => {
       title: 'Saaral-Mazhaiyai',
       musicby: ' 🎵Musicby 	Stephen Zechariah',
       moviename:'🎥 Movie Album song-2013',
-      url: 'public/assets/Saaral-Mazhaiyai-MassTamilan.com.mp3',
+      url: 'http://localhost:5174/playlist/public/assets/Saaral-Mazhaiyai-MassTamilan.com.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song19 ended
