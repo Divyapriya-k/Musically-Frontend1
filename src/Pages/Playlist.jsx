@@ -11,7 +11,7 @@ const Playlist = () => {
       title: 'Aathangara-Orathil',
       musicby: ' 🎵Musicby Harris Jayaraj',
       moviename:' 🎥 Movie Yaan-2014',
-      url: '/public/assets/Aathangara-Orathil.mp3',
+      url: 'https://musically-frontend1-biyt.vercel.app/playlist/Aathangara-Orathil.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180', 
     },
     //song1 ended
