@@ -11,7 +11,7 @@ const Playlist = () => {
       title: 'Aathangara-Orathil',
       musicby: ' 🎵Musicby Harris Jayaraj',
       moviename:' 🎥 Movie Yaan-2014',
-      url: 'public/assets/Aathangara-Orathil.mp3',
+      url: '/public/assets/Aathangara-Orathil.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180', 
     },
     //song1 ended
@@ -20,7 +20,7 @@ const Playlist = () => {
       title: 'Vaa-Vasuki-MassTamilan',
       musicby: ' 🎵Musicby D.Imman & Shivam',
       moviename:' 🎥Movie Seeru-2020',
-      url: 'public/assets/Azhagiya-Asura-MassTamilan.com.mp3',
+      url: '/public/assets/Azhagiya-Asura-MassTamilan.com.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song2 ended
@@ -29,7 +29,7 @@ const Playlist = () => {
       title: 'Dooram-Nillu-MassTamilan',
       musicby: ' 🎵Musicby 	Anirudh Ravichander',
       moviename:' 🎥Movie VIP 2-2017',
-      url: 'public/assets/Dooram-Nillu-MassTamilan.com.mp3',
+      url: '/public/assets/Dooram-Nillu-MassTamilan.com.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song3 ended
@@ -38,7 +38,7 @@ const Playlist = () => {
       title: 'En-Peru-Meenakumari',
       musicby: '🎵 Musicby Devi Sri Prasad',
       moviename:' 🎥Movie Kanthaswamy-2009',
-      url: 'public/assets/En-Peru-Meenakumari-MassTamilan.io.mp3',
+      url: '/public/assets/En-Peru-Meenakumari-MassTamilan.io.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song4 ended
@@ -47,7 +47,7 @@ const Playlist = () => {
       title: 'Enna-Solla-Pogirai',
       musicby: ' 🎵Musicby A. R. Rahman',
       moviename:'🎥 Movie Kandukondain-2000',
-      url: 'public/assets/Enna-Solla-Pogirai.mp3',
+      url: '/public/assets/Enna-Solla-Pogirai.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song5 ended
@@ -56,7 +56,7 @@ const Playlist = () => {
       title: 'Ennadi-Maayavi-Nee',
       musicby: ' 🎵Musicby  Santhosh Narayanan',
       moviename:'🎥 Movie Vada Chennai -2018',
-      url: 'public/assets/Ennadi-Maayavi-Nee-MassTamilan.com.mp3',
+      url: '/public/assets/Ennadi-Maayavi-Nee-MassTamilan.com.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song6 ended
@@ -65,7 +65,7 @@ const Playlist = () => {
       title: 'Irukkana-Idupu-Irukkana',
       musicby: ' 🎵Musicby  Harris jayaraj',
       moviename:'🎥 Movie Nanban -2012',
-      url: 'public/assets/Irukkana-Idupu-Irukkana-MassTamilan.fm.mp3',
+      url: '/public/assets/Irukkana-Idupu-Irukkana-MassTamilan.fm.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song7 ended
@@ -74,7 +74,7 @@ const Playlist = () => {
       title: 'Kaattu-Sirukki',
       musicby: ' 🎵Musicby  A.R.Rahman',
       moviename:'🎥 Movie Raavanan-2010',
-      url: 'public/assets/Kaattu-Sirukki.mp3',
+      url: '/public/assets/Kaattu-Sirukki.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song8 ended
@@ -83,7 +83,7 @@ const Playlist = () => {
       title: 'Kodi-Aruvi',
       musicby: ' 🎵Musicby  Sean Roldan',
       moviename:'🎥 Movie Mehandi circus-2019',
-      url: 'public/assets/Kodi-Aruvi-MassTamilan.org.mp3',
+      url: '/public/assets/Kodi-Aruvi-MassTamilan.org.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song9 ended
@@ -92,7 +92,7 @@ const Playlist = () => {
       title: 'Kummiyadi-Penne',
       musicby: ' 🎵Musicby  Harris jayaraj',
       moviename:'🎥 Movie Mehandi Chellamae-2004',
-      url: 'public/assets/Kummiyadi-Penne-MassTamilan.com.mp3',
+      url: '/public/assets/Kummiyadi-Penne-MassTamilan.com.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song10 ended
@@ -101,7 +101,7 @@ const Playlist = () => {
       title: 'Mother-Song',
       musicby: ' 🎵Musicby Yuvan Shankar Raja',
       moviename:'🎥 Movie  Valimai-2022',
-      url: 'public/assets/Mother-Song-MassTamilan.fm.mp3',
+      url: '/public/assets/Mother-Song-MassTamilan.fm.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song11 ended
@@ -110,7 +110,7 @@ const Playlist = () => {
       title: 'Naa-Kaakinaada',
       musicby: ' 🎵Musicby 	S. Thaman',
       moviename:'🎥 Movie Sindhanai Sei-2009',
-      url: 'public/assets/Naa-Kaakinaada-MassTamilan.com.mp3',
+      url: '/public/assets/Naa-Kaakinaada-MassTamilan.com.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song12 ended
@@ -119,7 +119,7 @@ const Playlist = () => {
       title: 'Naan-Sonnadhum',
       musicby: ' 🎵Musicby G.V.Prakash',
       moviename:'🎥 Movie Mayakkam Enna-2011',
-      url: 'public/assets/Naan-Sonnadhum-Mazhai-Vandhucha.mp3',
+      url: '/public/assets/Naan-Sonnadhum-Mazhai-Vandhucha.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song13 ended
@@ -128,7 +128,7 @@ const Playlist = () => {
       title: 'Neenga-Mudiyuma',
       musicby: ' 🎵Musicby Sid sriram',
       moviename:'🎥 Movie pyscho-2020',
-      url: 'public/assets/Neenga-Mudiyuma-MassTamilan.io.mp3',
+      url: '/public/assets/Neenga-Mudiyuma-MassTamilan.io.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song14 ended
@@ -137,7 +137,7 @@ const Playlist = () => {
       title: 'Nesamaguren',
       musicby: ' 🎵Musicby Stephen Zechariah',
       moviename:'🎥 Movie Album song-2021',
-      url: 'public/assets/Nesamaguren-MassTamilan.fm.mp3',
+      url: '/public/assets/Nesamaguren-MassTamilan.fm.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song15 ended
@@ -146,7 +146,7 @@ const Playlist = () => {
       title: 'Oo-Solriya-Oo-Oo-Solriya',
       musicby: ' 🎵Musicby Devi Sri Prasad',
       moviename:'🎥 Movie Pushpa-2021',
-      url: 'public/assets/Oo-Solriya-Oo-Oo-Solriya-MassTamilan.fm.mp3',
+      url: '/public/assets/Oo-Solriya-Oo-Oo-Solriya-MassTamilan.fm.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song16 ended
@@ -155,7 +155,7 @@ const Playlist = () => {
       title: 'Oru-Manam',
       musicby: ' 🎵Musicby 	Harris Jayaraj',
       moviename:'🎥 Movie Dhruva Natchathiram-2013',
-      url: 'public/assets/Oru-Manam-MassTamilan.io.mp3',
+      url: '/public/assets/Oru-Manam-MassTamilan.io.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song17 ended
@@ -164,7 +164,7 @@ const Playlist = () => {
       title: 'Pattamarangal',
       musicby: ' 🎵Musicby 	Hiphop Tamizha',
       moviename:'🎥 Movie Vantha Rajavathaan Varuven-2018',
-      url: 'public/assets/Pattamarangal-MassTamilan.org.mp3',
+      url: '/public/assets/Pattamarangal-MassTamilan.org.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song18 ended
@@ -173,7 +173,7 @@ const Playlist = () => {
       title: 'Saaral-Mazhaiyai',
       musicby: ' 🎵Musicby 	Stephen Zechariah',
       moviename:'🎥 Movie Album song-2013',
-      url: 'http://localhost:5174/playlist/public/assets/Saaral-Mazhaiyai-MassTamilan.com.mp3',
+      url: '/public/assets/Saaral-Mazhaiyai-MassTamilan.com.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song19 ended
@@ -182,7 +182,7 @@ const Playlist = () => {
       title: 'Sonthamulla',
       musicby: ' 🎵Musicby Siddhu Kumar',
       moviename:'🎥 Movie Anandham Vilayadum Veedu-2021',
-      url: 'public/assets/Sonthamulla-Vazhkkai-MassTamilan.fm.mp3',
+      url: '/public/assets/Sonthamulla-Vazhkkai-MassTamilan.fm.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song20 ended
@@ -191,7 +191,7 @@ const Playlist = () => {
       title: 'Thamarai-Poovukkum',
       musicby: ' 🎵Musicby 	Vidyasagar',
       moviename:'🎥 Movie Pasumpon-1995',
-      url: 'public/assets/Thamarai-Poovukkum-MassTamilan.com.mp3',
+      url: '/public/assets/Thamarai-Poovukkum-MassTamilan.com.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song21 ended
@@ -200,7 +200,7 @@ const Playlist = () => {
       title: 'The-Karma-theme',
       musicby: ' 🎵Musicby 	Anirudh Ravichander',
       moviename:'🎥 Movie U Turn-2019',
-      url: 'public/assets/The-Karma-Theme-MassTamilan.com.mp3',
+      url: '/public/assets/The-Karma-Theme-MassTamilan.com.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song22 ended
@@ -209,7 +209,7 @@ const Playlist = () => {
       title: 'Theruvorom',
       musicby: ' 🎵Musicby 	Stephen Zechariah',
       moviename:'🎥 Movie Avathaaram Series-2019',
-      url: 'public/assets/Theruvorom-MassTamilan.fm.mp3',
+      url: '/public/assets/Theruvorom-MassTamilan.fm.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song23 ended
@@ -218,7 +218,7 @@ const Playlist = () => {
       title: 'Uyir-Uruvaatha-Uru',
       musicby: ' 🎵Musicby 	Sam.CS',
       moviename:'🎥 Movie Iravukku Aayiram Kangal-2018',
-      url: 'public/assets/Uyir-Uruvaatha-Uru-MassTamilan.com.mp3',
+      url: '/public/assets/Uyir-Uruvaatha-Uru-MassTamilan.com.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song24 ended
@@ -227,7 +227,7 @@ const Playlist = () => {
       title: 'Inkem-Inkem-Inkem-Kaavaale',
       musicby: ' 🎵Musicby 	Sid sriram',
       moviename:'🎥 Movie Geetha govintham-2018',
-      url: 'public/assets/Inkem-Inkem-Inkem-Kaavaale-MassTamilan.com.mp3',
+      url: '/public/assets/Inkem-Inkem-Inkem-Kaavaale-MassTamilan.com.mp3',
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song25 ended
